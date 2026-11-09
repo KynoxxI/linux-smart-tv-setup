@@ -1,0 +1,36 @@
+<sources>
+    <programs>
+        <default pathversion="1"></default>
+    </programs>
+    <video>
+        <default pathversion="1"></default>
+    </video>
+    <music>
+        <default pathversion="1"></default>
+    </music>
+    <pictures>
+        <default pathversion="1"></default>
+    </pictures>
+    <files>
+        <default pathversion="1"></default>
+        <source>
+            <name>0-vStream Repo (Films, Series, Animes VF/VOSTFR)</name>
+            <path pathversion="1">https://kodi-vstream.github.io/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>1-Depots-Preinstalles (Netflix, Prime, Disney+, TV)</name>
+            <path pathversion="1">special://home/repos/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>2-SlyGuy Repository (Disney+, Max, Pluto TV)</name>
+            <path pathversion="1">https://slyguy.uk/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+    </files>
+    <games>
+        <default pathversion="1"></default>
+    </games>
+</sources>
+
