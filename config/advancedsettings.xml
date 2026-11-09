@@ -1,0 +1,18 @@
+<advancedsettings version="1.0">
+    <services>
+        <esallinterfaces>true</esallinterfaces>
+        <webserver>true</webserver>
+        <webserverport>8080</webserverport>
+        <webserverauthentication>true</webserverauthentication>
+        <webserverusername>kodi</webserverusername>
+        <webserverpassword>kodi</webserverpassword>
+        <zeroconf>true</zeroconf>
+        <upnp>true</upnp>
+        <upnprenderer>true</upnprenderer>
+        <upnpcontroller>true</upnpcontroller>
+        <upnpannounce>true</upnpannounce>
+        <airplay>true</airplay>
+        <airplayvideosupport>true</airplayvideosupport>
+    </services>
+</advancedsettings>
+
