@@ -1,0 +1,16 @@
+<settings version="2">
+    <setting id="addons.unknownsources">true</setting>
+    <setting id="services.esallinterfaces">true</setting>
+    <setting id="services.webserver">true</setting>
+    <setting id="services.webserverport" default="true">8080</setting>
+    <setting id="services.webserverauthentication" default="true">true</setting>
+    <setting id="services.webserverusername" default="true">kodi</setting>
+    <setting id="services.webserverpassword">kodi</setting>
+    <setting id="services.zeroconf">true</setting>
+    <setting id="services.upnp">true</setting>
+    <setting id="services.upnprenderer">true</setting>
+    <setting id="services.airplay">true</setting>
+    <setting id="services.airplayvideosupport">true</setting>
+    <setting id="locale.language">resource.language.fr_fr</setting>
+</settings>
+
